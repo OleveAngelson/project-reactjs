@@ -1,5 +1,5 @@
 import React from 'react'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { FontAwesomeIcon } from '@fortawesome/react-fortawesome'
 import { faPenSquare, faTrashAlt } from '@fortawesome/free-solid-svg-icons'
 
 export const Todo = ({ task, deleteTodo, editTodo, toggleComplete }) => {
